@@ -7,4 +7,4 @@
 - 😄 Pronouns: She.
 - ⚡ Fun fact: I like woodcarving, leather work and embroidery ;)
 
-![ed7747ca797333eb6447917b803af306](https://user-images.githubusercontent.com/116891081/203617459-0920e5c1-f3aa-4d58-8bae-9d8f00a86038.gif)
+    ![ed7747ca797333eb6447917b803af306](https://user-images.githubusercontent.com/116891081/203617459-0920e5c1-f3aa-4d58-8bae-9d8f00a86038.gif)
