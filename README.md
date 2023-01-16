@@ -1,4 +1,4 @@
-<h2>About my work</h2><br>
+<h2>About my work</h2>
 - 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com<br>
 - 🌱 I’m currently learning Fullstack Development at F5.<br>
 - 👯 I’m looking to collaborate on Collective Memory.<br>
