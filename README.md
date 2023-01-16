@@ -1,8 +1,8 @@
-<h2>About my work</2>
-- 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com
-- 🌱 I’m currently learning Fullstack Development at F5.
-- 👯 I’m looking to collaborate on Collective Memory.
-- 🤔 I’m looking for help with Coding.
+<h2>About my work</h2><br>
+- 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com<br>
+- 🌱 I’m currently learning Fullstack Development at F5.<br>
+- 👯 I’m looking to collaborate on Collective Memory.<br>
+- 🤔 I’m looking for help with Coding.<br>
 <h2>🚀 About Me</h2>
 
 - 💬 Ask me about Anything you want (Archaeology, books, films... I'm a good conversationalist!)
