@@ -19,8 +19,8 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67](https://user-images.githubusercontent.com/116891081/212762749-311aa026-a35c-4814-bfd9-2d0b8e57edc9.png)
 
 <h2>Links</h2>
+<h3>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="natalia-calvo-torel-a9739263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/natalia-calvo-torel-a9739263?trk=profile-badge">Natalia Calvo Torel</a></div>
-           
-
+   </h3>        
 
 ![ed7747ca797333eb6447917b803af306](https://user-images.githubusercontent.com/116891081/203617459-0920e5c1-f3aa-4d58-8bae-9d8f00a86038.gif)
