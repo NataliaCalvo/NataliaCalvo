@@ -9,7 +9,7 @@
 - 📫 How to reach me: @Stradanie
 - 😄 Pronouns: She.
 - ⚡ Fun fact: I like woodcarving, leather work and embroidery ;)
-- :guardsman: Languages: [Native] Spanish 🇪🇸 Asturian [High proeficiency] English 🇬🇧 [Begginer] French 🇫🇷 Russian 🇫🇷 Ukrainian 🇺🇦
+- :guardsman: Languages: [Native] Spanish 🇪🇸 Asturian. [High proeficiency] English 🇬🇧. [Begginer] French 🇫🇷 Russian 🇫🇷 Ukrainian 🇺🇦
 <h2>Skills</h2>
 
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67](https://user-images.githubusercontent.com/116891081/212762628-8392e276-9703-416b-a325-11e268162333.png)
