@@ -1,5 +1,5 @@
 <h2>About my work</h2>
-- 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com and <b>organization staff at Semana Negra de Gijón (Golden Medal for Merit in the Fine Arts).</b><br>
+- 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com and <b>organization staff at Semana Negra de Gijón (Golden Medal for Merit in the Fine Arts -Ministry of Culture- and Golden Medal for Merit in the Fine Arts -Gijón Council-).</b><br>
 - 🌱 I’m currently learning Fullstack Development at F5.<br>
 - 👯 I’m looking to collaborate on Collective Memory.<br>
 - 🤔 I’m looking for help with Coding.<br>
