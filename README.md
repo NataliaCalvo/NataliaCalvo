@@ -1,6 +1,6 @@
 <h2>About my work</h2>
 - 🔭 I’m currently working on Avanza Traducciones and www.fantasymundo.com and <b>organization staff at Semana Negra de Gijón (Golden Medal for Merit in the Fine Arts -Ministry of Culture- and Golden Medal for Merit in the Fine Arts -Gijón Council-).</b><br>
-- 🌱 I’m currently learning Fullstack Development at F5.<br>
+- 🌱 I’m currently learning COBOL.<br>
 - 👯 I’m looking to collaborate on Collective Memory.<br>
 - 🤔 I’m looking for help with Coding.<br>
 <h2>🚀 About Me</h2>
@@ -8,7 +8,7 @@
 - 💬 Ask me about Anything you want (Archaeology, books, films... I'm a good conversationalist!)
 - 📫 How to reach me: @Stradanie
 - 😄 Pronouns: She.
-- ⚡ Fun fact: I like woodcarving, leather work and embroidery ;)
+- ⚡ Fun fact: I love COBOL.
 - :guardsman: Languages: [Native] Spanish 🇪🇸 Asturian. [High proeficiency] English 🇬🇧. [Begginer] French 🇫🇷 Russian 🇫🇷 Ukrainian 🇺🇦
 <h2>Skills</h2>
 
